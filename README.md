@@ -1,2 +1,1 @@
-# ingsoc
-Big Brother is watching you, drive responsibly
+A module for real time detection of drive attentiveness and emotional state of the driver.
